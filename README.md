@@ -1,2 +1,2 @@
-# VZDash-MEG
-Code for a dashboard developed for Mayor Eric Garcetti's Office to monitor Vision Zero progress.
+# vzcd-shiny
+A viewer of Vision Zero data using the Shiny Application
